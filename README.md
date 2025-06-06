@@ -6,15 +6,24 @@ This repository contains a comprehensive R-based pipeline for the analysis of mi
 
 ## Repository Structure
 
-├── data/
+├── data/  
+
 │ ├── counts/
+
 │ ├── metadata/
+
 │ └── Metrics/
+
 └── R/
+
 ├── 00_packages_setup.R
+
 ├── 01_data_loading_and_filtering.R
+
 ├── 02_descriptive_analysis.R
+
 ├── 03_DE_analysis.R
+
 ├── 04_DANA_analysis.R
 
 
