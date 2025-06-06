@@ -23,8 +23,10 @@ This repository contains a comprehensive R-based pipeline for the analysis of mi
 │     ├── 02_descriptive_analysis.R
 
 │     ├── 03_DE_analysis.R
+
+│     ├── 04_DANA_analysis.R
   
-│     └── 04_DANA_analysis.R
+│     └── DE_pipeline.R
 
 
 
