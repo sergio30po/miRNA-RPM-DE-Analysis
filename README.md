@@ -27,7 +27,6 @@ This repository contains a comprehensive R-based pipeline for the analysis of mi
 │     └── 04_DANA_analysis.R
 
 
----
 
 ## Script Descriptions
 
@@ -87,7 +86,6 @@ This repository contains a comprehensive R-based pipeline for the analysis of mi
 
 For questions or contributions, please contact Sergio Pérez Oliveira(sergio30po@gmail.com).
 
----
 
 *This pipeline is developed as part of a doctoral thesis project analyzing miRNA expression and differential expression in neurological disorders.*
 
