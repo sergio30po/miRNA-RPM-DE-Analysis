@@ -80,7 +80,7 @@ This script integrates all the major steps of the miRNA differential expression 
 
 ## Dependencies
 
-- CRAN packages: tidyverse, ggplot2, dplyr, readxl, tibble, stats, ggrepel, car, DescTools, dunn.test, FSA, plotly, ComplexHeatmap, circlize
+  **CRAN packages**: tidyverse, ggplot2, dplyr, readxl, tibble, stats, ggrepel, car, DescTools, dunn.test, FSA, plotly, ComplexHeatmap, circlize
 
   **Bioconductor packages:**
   - [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)  
