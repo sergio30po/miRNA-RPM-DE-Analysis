@@ -12,14 +12,10 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
----
-
 This repository supports the reproducibility of the analyses presented in
 a manuscript currently under preparation or review for publication.
 
 When the manuscript is published, citation details will be added here.
-
----
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
