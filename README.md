@@ -72,8 +72,8 @@ This script integrates all the major steps of the miRNA differential expression 
 ## Usage Instructions
 
 1. Clone the repository to your local machine.  
-2. Run `00_packages_setup.R` to prepare the R environment.  
-3. Sequentially run the scripts from `01_data_loading_and_filtering.R` through `04_DANA_analysis.R`.  
+2. Run [00_packages_setup.R](R/00_packages_setup.R) to prepare the R environment.  
+3. Sequentially run the scripts from  [01_data_loading_and_filtering.R](R/01_data_loading_and_filtering.R) through [04_DANA_analysis.R](R/04_DANA_analysis.R).  
 4. Inspect the outputs in the `results/` and `figures/` directories.  
 
 ---
