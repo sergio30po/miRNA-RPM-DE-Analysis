@@ -81,8 +81,15 @@ This script integrates all the major steps of the miRNA differential expression 
 ## Dependencies
 
 - CRAN packages: tidyverse, ggplot2, dplyr, readxl, tibble, stats, ggrepel, car, DescTools, dunn.test, FSA, plotly, ComplexHeatmap, circlize  
-- Bioconductor packages: DESeq2, RUVSeq  
-- GitHub packages: DANA, PoissonSeq, miRPM (custom)  
+**Bioconductor packages:**
+  - [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)  
+  - [RUVSeq](https://bioconductor.org/packages/release/bioc/html/RUVSeq.html)  
+
+**GitHub packages:**
+  - [DANA](https://github.com/LXQin/DANA)  
+  - [PoissonSeq](https://github.com/lsy1056/PoissonSeq)  
+  - [miRPM (custom)](https://github.com/sergio30po/miRPM)  
+
 
 ---
 
