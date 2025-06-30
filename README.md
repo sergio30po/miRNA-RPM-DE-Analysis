@@ -1,6 +1,6 @@
 # Connecting HTT intermediate alleles and microRNA dysregulation to enhanced tauopathy in Late-Onset Alzheimer's Disease
 
-Juan Castilla-Silgado<sup>1,2,6</sup>*, Sergio Perez-Oliveira<sup>2,4</sup>*, Paola Pinto-Hernandez<sup>1,2</sup>, Manuel Fernandez-Sanjurjo<sup>1,2</sup>, Maria Daniela Corte-Torres<sup>2,7</sup>, Eduardo Iglesias-Gutierrez<sup>1,2</sup>, Manuel Menendez-Gonzalez<sup>2,3,5</sup>, Cristina Tomas-Zapico<sup>1,2</sup><sup>#</sup>*, Victoria Alvarez<sup>2,4</sup><sup>#</sup>
+Juan Castilla-Silgado<sup>1,2,6</sup> *, Sergio Perez-Oliveira<sup>2,4</sup> *, Paola Pinto-Hernandez<sup>1,2</sup>, Manuel Fernandez-Sanjurjo<sup>1,2</sup>, Maria Daniela Corte-Torres<sup>2,7</sup>, Eduardo Iglesias-Gutierrez<sup>1,2</sup>, Manuel Menendez-Gonzalez<sup>2,3,5</sup>, Cristina Tomas-Zapico<sup>1,2</sup><sup>#</sup>*, Victoria Alvarez<sup>2,4</sup><sup>#</sup>
 
 <sup>1</sup> Department of Functional Biology (Physiology), University of Oviedo, 33006, Oviedo, Spain  
 <sup>2</sup> Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), 33011, Oviedo, Spain  
