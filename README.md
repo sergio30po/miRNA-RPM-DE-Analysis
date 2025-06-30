@@ -1,14 +1,17 @@
 # Connecting HTT intermediate alleles and microRNA dysregulation to enhanced tauopathy in Late-Onset Alzheimer's Disease
 
-Juan Castilla-Silgado ^1^,^2^,^6^ *, Sergio Perez-Oliveira ^2^,^4^ *, Paola Pinto-Hernandez ^1^,^2^, Manuel Fernandez-Sanjurjo ^1^,^2^, Maria Daniela Corte-Torres ^2^,^7^, Eduardo Iglesias-Gutierrez ^1^,^2^, Manuel Menendez-Gonzalez ^2^,^3^,^5^, Cristina Tomas-Zapico ^1^,^2^,#,*, Victoria Alvarez ^2^,^4^,#
+Juan Castilla-Silgado<sup>1,2,6</sup>*, Sergio Perez-Oliveira<sup>2,4</sup>*, Paola Pinto-Hernandez<sup>1,2</sup>, Manuel Fernandez-Sanjurjo<sup>1,2</sup>, Maria Daniela Corte-Torres<sup>2,7</sup>, Eduardo Iglesias-Gutierrez<sup>1,2</sup>, Manuel Menendez-Gonzalez<sup>2,3,5</sup>, Cristina Tomas-Zapico<sup>1,2</sup><sup>#</sup>*, Victoria Alvarez<sup>2,4</sup><sup>#</sup>
 
-1 Department of Functional Biology (Physiology), University of Oviedo, 33006, Oviedo, Spain.
-2 Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), 33011, Oviedo, Spain.
-3 Department of Neurology, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain. 
-4 Laboratory of Genetics Hospital Universitario central de Asturias, 33011, Oviedo, Spain.
-5 Department of Medicine, University of Oviedo, 33006, Oviedo, Spain.
-6 Asociación Parkinson Asturias 33011, Oviedo, Spain.
-7 Biobank of Principado de Asturias, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain.
+<sup>1</sup> Department of Functional Biology (Physiology), University of Oviedo, 33006, Oviedo, Spain  
+<sup>2</sup> Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), 33011, Oviedo, Spain  
+<sup>3</sup> Department of Neurology, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain  
+<sup>4</sup> Laboratory of Genetics, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain  
+<sup>5</sup> Department of Medicine, University of Oviedo, 33006, Oviedo, Spain  
+<sup>6</sup> Asociación Parkinson Asturias, 33011, Oviedo, Spain  
+<sup>7</sup> Biobank of Principado de Asturias, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain  
+
+**\*** These authors contributed equally  
+**#** Joint senior authors
 
 **Abstract**
 
