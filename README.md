@@ -1,4 +1,18 @@
-# miRNA RPM Differential Expression Analysis Pipeline
+# Connecting HTT intermediate alleles and microRNA dysregulation to enhanced tauopathy in Late-Onset Alzheimer's Disease
+
+Juan Castilla-Silgado1,2,6,±, Sergio Perez-Oliveira2,4,±, Paola Pinto-Hernandez1,2, Manuel Fernandez-Sanjurjo1,2, Maria Daniela Corte-Torres2,7, Eduardo Iglesias-Gutierrez1,2, Manuel Menendez-Gonzalez2,3,5, Cristina Tomas-Zapico1,2,#,*, Victoria Alvarez2,4,#
+
+1 Department of Functional Biology (Physiology), University of Oviedo, 33006, Oviedo, Spain.
+2 Instituto de Investigación Sanitaria del Principado de Asturias (ISPA), 33011, Oviedo, Spain.
+3 Department of Neurology, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain. 
+4 Laboratory of Genetics Hospital Universitario central de Asturias, 33011, Oviedo, Spain.
+5 Department of Medicine, University of Oviedo, 33006, Oviedo, Spain.
+6 Asociación Parkinson Asturias 33011, Oviedo, Spain.
+7 Biobank of Principado de Asturias, Hospital Universitario Central de Asturias (HUCA), 33011, Oviedo, Spain.
+
+Late-onset Alzheimer´s disease (LOAD) is a heterogenous disorder influenced by genetic factors, where we have previously described intermediate alleles (IAs) in the huntingtin (HTT) gene as potential modifiers. We investigated the impact of HTT IAs on LOAD progression and neuropathology using a comprehensive approach, genotyping HTT CAG repeats in 323 LOAD patients and 335 healthy controls, and performing multi-omic analyses on caudate nucleus samples. Clinically, HTT IAs carriers exhibited decreased survival after disease onset, suggesting accelerated progression. Histopathologically, while LOAD patients showed increased soluble HTT levels and altered tau pathology compared to controls, these changes were consistently and markedly exacerbated in HTT IA carriers, characterized by heightened diffuse HTT immunoreactivity, a pronounced tau 3R isoform imbalance, and increased 3R tau-enriched ghost tangles. Mechanistically, this pathological exacerbation was supported by alterations in key splicing factors, including decreased SRSF6 and increased FUS-SFPQ complex formation. Our pioneering microRNA (miRNA) profiling in the caudate nucleus revealed a LOAD-associated miRNA dysregulation that was significantly amplified in HTT IA carriers. In silico analyses, supported by network modeling and direct target validation, demonstrated that these altered miRNAs specifically target components of the nuclear spliceosome machinery, including MAPT and HTT genes, suggesting a direct link to the observed tau 3R/4R imbalance. These findings underscore that HTT IAs act as critical accelerators of LOAD progression through a complex interplay involving miRNA-mediated dysregulation of splicing. Identifying HTT IAs through routine genetic screening offers a practical, non-invasive biomarker for patient stratification, paving the way for personalized therapeutic strategies in LOAD.
+
+---
 
 This repository contains a comprehensive R-based pipeline for the analysis of miRNA-seq data, focusing on normalization, filtering, descriptive statistics, differential expression, and normalization assessment. The workflow is modularized into separate scripts for ease of use and reproducibility.
 
